@@ -189,4 +189,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*FINAL FANTASY XIV Online · Updated 2026-11-24 · Shared under the MIT License*
+*FINAL FANTASY XIV Online · Updated 2026-11-25 · Shared under the MIT License*
